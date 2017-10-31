@@ -8,5 +8,5 @@ larashuo入门篇vue视频教程demo
 
 # 示范代码
 
-## 属性绑定示范 
+#### 属性绑定
 <p>bind-attribute.html </p>

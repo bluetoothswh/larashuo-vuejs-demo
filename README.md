@@ -10,3 +10,6 @@ larashuo入门篇vue视频教程demo
 
 #### 属性绑定
 <p>bind-attribute.html </p>
+
+#### 组件demo1
+<p>component-1.html </p>
